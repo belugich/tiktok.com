@@ -1,0 +1,14 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Epic Sound</title>
+</head>
+<body>
+    <h1>Добро пожаловать, наслаждайтесь звуком!</h1>
+    <audio id="fart-sound" autoplay>
+        <source src="https://www.soundjay.com/button/beep-07.wav" type="audio/wav">
+        Ваш браузер не поддерживает элемент audio.
+    </audio>
+</body>
+</html> 
